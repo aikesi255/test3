@@ -1,0 +1,21 @@
+<!-- res/menu/menu_options.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_font_small"
+        android:title="小" />
+    <item
+        android:id="@+id/action_font_medium"
+        android:title="中" />
+    <item
+        android:id="@+id/action_font_large"
+        android:title="大" />
+    <item
+        android:id="@+id/action_color_red"
+        android:title="红色" />
+    <item
+        android:id="@+id/action_color_black"
+        android:title="黑色" />
+    <item
+        android:id="@+id/action_normal"
+        android:title="普通菜单项" />
+</menu>
